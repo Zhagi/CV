@@ -18,25 +18,6 @@ Explore my diverse range of projects on my [GitHub Profile](https://github.com/Z
 
 ## Work Experience
 
-
-**Makers Academy** (July 2023 to October 2023)  
-
-Software and Cloud Engineering Bootcamp
-
-- Developed robust software solutions by embracing Test-Driven Development (TDD) principles, utilising tools like Pytest for Python and applying Object-Oriented Programming (OOP) methodologies to enhance code quality and maintainability.
-
-- Improved team dynamics and problem-solving capabilities through pair programming and group projects, adhering to Agile methodologies to meet critical deadlines and deliver value iteratively.
-
-- Elevated team communication and empathy by conducting Emotional Intelligence (EQ) workshops, leading to more cohesive and effective collaboration.
-
-- Integrated a suite of DevOps practices including containerisation with Docker and Kubernetes, infrastructure automation with Terraform, and continuous integration and deployment pipelines using Jenkins, resulting in streamlined deployments and scalable cloud infrastructure.
-
-- Prioritised security and reliability by employing both Dynamic Application Security Testing (DAST) and Static Application Security Testing (SAST) tools to proactively identify and address vulnerabilities, alongside leveraging AWS CloudWatch and Elastic Load Balancing (ELB) for real-time monitoring and site reliability management.
-
-- Advanced software delivery processes by fostering a feedback-rich environment through rigorous code reviews, thereby enhancing collective codebase integrity and team skill levels.
-  
-  
-
 **Woodhouse College** (January 2021 to July 2023)  
 
 Teacher of Chemistry
@@ -97,25 +78,28 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Makers Academy** (July 2023 to October 2023)  
 
-#### Your University / College (start_date to end_date)
+Software and Cloud Engineering Bootcamp
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Developed robust software solutions by embracing Test-Driven Development (TDD) principles, utilising tools like Pytest for Python and applying Object-Oriented Programming (OOP) methodologies to enhance code quality and maintainability.
 
-#### Any other qualifications
+- Improved team dynamics and problem-solving capabilities through pair programming and group projects, adhering to Agile methodologies to meet critical deadlines and deliver value iteratively.
 
-That in some arguable way make you a better software developer or well-rounded person
+- Elevated team communication and empathy by conducting Emotional Intelligence (EQ) workshops, leading to more cohesive and effective collaboration.
 
-## Hobbies
+- Integrated a suite of DevOps practices including containerisation with Docker and Kubernetes, infrastructure automation with Terraform, and continuous integration and deployment pipelines using Jenkins, resulting in streamlined deployments and scalable cloud infrastructure.
 
-Any cool stuff that makes you a super part of a software development team
+- Prioritised security and reliability by employing both Dynamic Application Security Testing (DAST) and Static Application Security Testing (SAST) tools to proactively identify and address vulnerabilities, alongside leveraging AWS CloudWatch and Elastic Load Balancing (ELB) for real-time monitoring and site reliability management.
+
+- Advanced software delivery processes by fostering a feedback-rich environment through rigorous code reviews, thereby enhancing collective codebase integrity and team skill levels.
+
+#### Postgraduate Certificate in Education (September 2018 to June 2019)  
+
+- PGCE Secondary Science (Chemistry specialism)
+- Mill Hill County High School (Placement)
+
+#### University of Nottingham
+
+- BSc Biochemistry and Genetics
+- Final Research Project Title: Two-hybrid screening for novel ubiquitin-binding proteins 
