@@ -12,6 +12,7 @@ I’ve transitioned from the structured world of education as a chemistry teache
 | Metapod Project         | Designed and deployed an Amazon EKS cluster with Terraform and automated CI/CD via GitHub Actions.       | Terraform, Github Actions, S3, EKS, AWS CLI, kubectl |
 | MakersBnB               | An AirBnB clone project, utilising agile work practices and integrating a SQL database with Python.      | Python (Flask), HTML, CSS, SQL (PostgreSQL)     |
 
+Explore my diverse range of projects on [my GitHub Profile](https://github.com/Zhagi).
 
 ## Work Experience
 
