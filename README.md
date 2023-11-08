@@ -33,10 +33,11 @@ Software and Cloud Engineering Bootcamp
 
 - Advanced software delivery processes by fostering a feedback-rich environment through rigorous code reviews, thereby enhancing collective codebase integrity and team skill levels.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**Woodhouse College** (January 2021 to July 2023)  
+Teacher of Chemistry
+- Prepared A level Chemistry students with a comprehensive curriculum, resulting in a 30% increase in A and A* grades.
+- Provided UCAS references and guided tutees through the application process.
+- Oversaw the Medicine academy, providing support for students applying for medicine, dentistry and veterinary medicine courses, including mock interviews, medical society trips, and building relationships with healthcare professionals.
 
 ## Skills
 
