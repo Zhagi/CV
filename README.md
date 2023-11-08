@@ -12,14 +12,26 @@ I’ve transitioned from the structured world of education as a chemistry teache
 | Metapod Project         | Designed and deployed an Amazon EKS cluster with Terraform and automated CI/CD via GitHub Actions.       | Terraform, Github Actions, S3, EKS, AWS CLI, kubectl |
 | MakersBnB               | An AirBnB clone project, utilising agile work practices and integrating a SQL database with Python.      | Python (Flask), HTML, CSS, SQL (PostgreSQL)     |
 
-Explore my diverse range of projects on [my GitHub Profile](https://github.com/Zhagi).
+
+Explore my diverse range of projects on my [GitHub Profile](https://github.com/Zhagi).
+
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Makers Academy** (July 2023 to October 2023)  
+Software and Cloud Engineering Bootcamp
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Developed robust software solutions by embracing Test-Driven Development (TDD) principles, utilising tools like Pytest for Python and applying Object-Oriented Programming (OOP) methodologies to enhance code quality and maintainability.
+
+- Improved team dynamics and problem-solving capabilities through pair programming and group projects, adhering to Agile methodologies to meet critical deadlines and deliver value iteratively.
+
+- Elevated team communication and empathy by conducting Emotional Intelligence (EQ) workshops, leading to more cohesive and effective collaboration.
+
+- Integrated a suite of DevOps practices including containerisation with Docker and Kubernetes, infrastructure automation with Terraform, and continuous integration and deployment pipelines using Jenkins, resulting in streamlined deployments and scalable cloud infrastructure.
+
+- Prioritised security and reliability by employing both Dynamic Application Security Testing (DAST) and Static Application Security Testing (SAST) tools to proactively identify and address vulnerabilities, alongside leveraging AWS CloudWatch and Elastic Load Balancing (ELB) for real-time monitoring and site reliability management.
+
+- Advanced software delivery processes by fostering a feedback-rich environment through rigorous code reviews, thereby enhancing collective codebase integrity and team skill levels.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
