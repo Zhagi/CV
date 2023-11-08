@@ -6,7 +6,7 @@ I’ve transitioned from the structured world of education as a chemistry teache
  
 | Name                    | Description                                                                                             | Tech/Tools                                      |
 |-------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Ansible Project         | Leveraged Ansible server setup to automate the configuration of a web server on a remote Ubuntu machine. | Ansible, AWS (EC2), Ubuntu, Apache2, Python, Yaml|
+| Ansible Project         | Leveraged Ansible server setup to automate the configuration of a web server on a remote Ubuntu machine. | Ansible, AWS (EC2, Ubuntu, Apache2, Python, Yaml|
 | Reliability Project     | Enhancements to a veterinary hospital's HOSP system, focusing on operational integrity,<br>enhanced reliability, and security against breaches. | AWS (EC2), VPC, CloudWatch, Athena, API Gateway, CloudFront, Lambda, Loadbalancer, DynamoDB, S3), NGINX |
 | Security Vulnerabilities Project | Executed a security overhaul employing SAST and DAST tools to identify and rectify vulnerabilities<br>in existing software. | Bandit (SAST), OWASP ZAP (DAST), Python (Flask), HTML, SQL (PostgreSQL) |
 | Metapod Project         | Designed and deployed an Amazon EKS cluster with Terraform and automated CI/CD via GitHub Actions.       | Terraform, Github Actions, S3, EKS, AWS CLI, kubectl |
