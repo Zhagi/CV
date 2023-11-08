@@ -1,13 +1,17 @@
-## Your Name
+## Zubayda Hagi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I’ve transitioned from the structured world of education as a chemistry teacher to the dynamic realm of software development; my journey is marked by a consistent drive to understand and solve complex challenges. As a graduate of Makers Academy, I combine clear communication and collaborative spirit with technical proficiency in DevOps and cloud engineering. In my teaching career, I significantly boosted student success rates and led team-driven initiatives, transforming these mentoring and leadership qualities into valuable assets for the tech industry. With a foundation in Biochemistry and Genetics, my analytical mindset is well-suited for devising innovative solutions. I thrive on teamwork, adaptability, and the joy of demystifying the complex, striving to leave a meaningful impact in every project I undertake.
 
 ## Projects
+ 
+| Name                    | Description                                                                                             | Tech/Tools                                      |
+|-------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Ansible Project         | Leveraged Ansible server setup to automate the configuration of a web server on a remote Ubuntu machine. | Ansible, AWS (EC2), Ubuntu, Apache2, Python, Yaml|
+| Reliability Project     | Enhancements to a veterinary hospital's HOSP system, focusing on operational integrity,<br>enhanced reliability, and security against breaches. | AWS (EC2, VPC, CloudWatch, Athena, API Gateway, CloudFront, Lambda, Loadbalancer, DynamoDB, S3), NGINX |
+| Security Vulnerabilities Project | Executed a security overhaul employing SAST and DAST tools to identify and rectify vulnerabilities<br>in existing software. | Bandit (SAST), OWASP ZAP (DAST), Python (Flask), HTML, SQL (PostgreSQL) |
+| Metapod Project         | Designed and deployed an Amazon EKS cluster with Terraform and automated CI/CD via GitHub Actions.       | Terraform, Github Actions, S3, EKS, AWS CLI, kubectl |
+| MakersBnB               | An AirBnB clone project, utilising agile work practices and integrating a SQL database with Python.      | Python (Flask), HTML, CSS, SQL (PostgreSQL)     |
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
