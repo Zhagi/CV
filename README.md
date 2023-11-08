@@ -18,6 +18,7 @@ Explore my diverse range of projects on my [GitHub Profile](https://github.com/Z
 
 ## Work Experience
 
+
 **Makers Academy** (July 2023 to October 2023)  
 
 Software and Cloud Engineering Bootcamp
@@ -33,6 +34,7 @@ Software and Cloud Engineering Bootcamp
 - Prioritised security and reliability by employing both Dynamic Application Security Testing (DAST) and Static Application Security Testing (SAST) tools to proactively identify and address vulnerabilities, alongside leveraging AWS CloudWatch and Elastic Load Balancing (ELB) for real-time monitoring and site reliability management.
 
 - Advanced software delivery processes by fostering a feedback-rich environment through rigorous code reviews, thereby enhancing collective codebase integrity and team skill levels.
+  
 
 **Woodhouse College** (January 2021 to July 2023)  
 
@@ -43,6 +45,7 @@ Teacher of Chemistry
 - Provided UCAS references and guided tutees through the application process.
   
 - Oversaw the Medicine academy, providing support for students applying for medicine, dentistry and veterinary medicine courses, including mock interviews, medical society trips, and building relationships with healthcare professionals.
+  
 
 **AQA** (May 2022 to August 2023)  
 
@@ -51,6 +54,7 @@ A level Chemistry Examiner
 - Marked A level Chemistry exam scripts and ensured consistent marking through team standardisation.
   
 - Met strict deadlines set by the exam board.
+- 
 
 **Mill Hill Senior School** (September 2019 to December 2020)  
 
@@ -63,6 +67,7 @@ Teacher of Chemistry
 - Contributed to departmental work, including developing schemes of work and setting exam papers.
 
 - Ran extra-curricular activities such as science club, TED club and revision lessons.
+  
 
 ## Skills
 
