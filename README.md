@@ -28,7 +28,6 @@ Teacher of Chemistry
   
 - Oversaw the Medicine academy, providing support for students applying for medicine, dentistry and veterinary medicine courses, including mock interviews, medical society trips, and building relationships with healthcare professionals.
   
-  
 
 **AQA** (May 2022 to August 2023)  
 
@@ -37,7 +36,6 @@ A level Chemistry Examiner
 - Marked A level Chemistry exam scripts and ensured consistent marking through team standardisation.
   
 - Met strict deadlines set by the exam board.
-  
   
 
 **Mill Hill Senior School** (September 2019 to December 2020)  
@@ -56,24 +54,20 @@ Teacher of Chemistry
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Problem-Solving and Analytical Skills
+As a Chemistry teacher, I honed my problem-solving abilities by creating engaging curricula that simplified complex scientific concepts for students, significantly improving their success rates. This analytical approach translated seamlessly into software development during my time at Makers Academy, where I routinely tackled coding challenges using Python and debugged applications by dissecting and solving complex problems methodically.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Communication and Mentorship
+My background as an A-level Chemistry Examiner demanded meticulous communication to maintain marking standards and support exam board objectives. In the tech realm, these communication skills became invaluable as I navigated collaborative coding environments, articulating technical issues, and navigating peers through code reviews during pair programming sessions.
 
+#### Adaptability and Continuous Learning
+Transitioning from the education sector to technology, I've demonstrated exceptional adaptability and an eagerness to learn. My swift mastery of DevOps tools such as Ansible, Docker, and Kubernetes, and cloud services through AWS reflects my ability to immerse myself in new technologies and contribute to evolving software development practices.
 
-Here's an example
+#### Leadership and Team Collaboration
+Leading the Medicine academy, I fostered a culture of excellence, collaboration, and support, directly contributing to the academic and professional advancement of my students. In the tech industry, these leadership skills have been pivotal when collaborating in group projects, ensuring team alignment with Agile methodologies, and driving successful project outcomes.
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+#### Emotional Intelligence
+Educators inherently develop a keen sense of emotional intelligence, which I brought into the technology sector. At Makers Academy, I applied this skill to enhance team dynamics, ensuring everyone's voice was heard and valued. This sensitivity to team morale and individual needs has been crucial in maintaining a positive and productive work environment in software development teams.
 
 
 ## Education
