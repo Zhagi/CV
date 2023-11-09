@@ -24,7 +24,7 @@ Teacher of Chemistry
 
 - Prepared A level Chemistry students with a comprehensive curriculum, resulting in a 30% increase in A and A* grades.
   
-- Provided UCAS references and guided tutees through the application process.
+- Provided UCAS references and guided tutees through the application process, culminating in multiple offers from top institutions including Oxbridge and Imperial College.
   
 - Oversaw the Medicine academy, providing support for students applying for medicine, dentistry and veterinary medicine courses, including mock interviews, medical society trips, and building relationships with healthcare professionals.
   
