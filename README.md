@@ -29,7 +29,7 @@ Teacher of Chemistry
 - Oversaw the Medicine academy, providing support for students applying for medicine, dentistry and veterinary medicine courses, including mock interviews, medical society trips, and building relationships with healthcare professionals.
   
 
-**AQA** (May 2022 to August 2023)  
+**AQA** (May 2022 to July 2023)  
 
 A level Chemistry Examiner
 
