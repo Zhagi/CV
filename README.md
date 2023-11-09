@@ -58,13 +58,13 @@ Teacher of Chemistry
 As a Chemistry teacher, I honed my problem-solving abilities by creating engaging curricula that simplified complex scientific concepts for students, significantly improving their success rates. This analytical approach translated seamlessly into software development during my time at Makers Academy, where I routinely tackled coding challenges using Python and debugged applications by dissecting and solving complex problems methodically.
 
 #### Communication and Mentorship
-My background as an A-level Chemistry Examiner demanded meticulous communication to maintain marking standards and support exam board objectives. In the tech realm, these communication skills became invaluable as I navigated collaborative coding environments, articulating technical issues, and navigating peers through code reviews during pair programming sessions.
+My background as an A-level Chemistry Examiner demanded meticulous communication to maintain marking standards and support exam board objectives. In the tech realm, these communication skills became invaluable as I navigated collaborative coding environments, articulating technical issues, and guiding peers through code reviews during pair programming sessions.
 
 #### Adaptability and Continuous Learning
 Transitioning from the education sector to technology, I've demonstrated exceptional adaptability and an eagerness to learn. My swift mastery of DevOps tools such as Ansible, Docker, and Kubernetes, and cloud services through AWS reflects my ability to immerse myself in new technologies and contribute to evolving software development practices.
 
 #### Leadership and Team Collaboration
-Leading the Medicine academy, I fostered a culture of excellence, collaboration, and support, directly contributing to the academic and professional advancement of my students. In the tech industry, these leadership skills have been pivotal when collaborating in group projects, ensuring team alignment with Agile methodologies, and driving successful project outcomes.
+Leading the Medicine academy, I fostered a culture of excellence, collaboration, and support, directly contributing to the academic and professional advancement of my students. In the tech industry, these leadership skills have been pivotal in group projects, ensuring team alignment with Agile methodologies, and driving successful project outcomes.
 
 #### Emotional Intelligence
 Educators inherently develop a keen sense of emotional intelligence, which I brought into the technology sector. At Makers Academy, I applied this skill to enhance team dynamics, ensuring everyone's voice was heard and valued. This sensitivity to team morale and individual needs has been crucial in maintaining a positive and productive work environment in software development teams.
