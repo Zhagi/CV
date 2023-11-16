@@ -66,7 +66,7 @@ Transitioning from the education sector to technology, I've demonstrated excepti
 #### Leadership and Team Collaboration
 Leading the Medicine academy, I fostered a culture of excellence, collaboration and support, directly contributing to the academic and professional advancement of my students. In the tech industry, these leadership skills have been pivotal in group projects, ensuring team alignment with Agile methodologies and driving successful project outcomes.
 
-#### Emotional Intelligence
+#### Interpersonal Skills
 My career in education cultivated a deep emotional intelligence, particularly in understanding and responding to the diverse needs of teenagers. This role demanded patience, empathy and the ability to manage a range of emotions constructively. Participation in emotional intelligence (EQ) sessions at Makers Academy has further enriched my interpersonal skill set, equipping me with the tools to effectively bring a nuanced approach to team interactions in the tech sector, where I remain sensitive to the emotional undertones of collaboration and ensure a supportive atmosphere that promotes mutual respect and understanding. 
 
 
